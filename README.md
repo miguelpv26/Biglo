@@ -204,7 +204,7 @@ All screenshots avoid exposing confidential business data.
 ![LightHouse Metrics Perfect Score](/assets/screenshots/lighthouse-perfect-score.png)
 ![axe DevTools 0 Issues](/assets/screenshots/axe-devtools-0-issues.png)
 ![npm audit 0 Vulnerabilities](/assets/screenshots/npm-audit-0-vulnerabilities.png)
-![Head Optimization](/assets/screenshots/head-optimization.png)
+![Head Optimization](/assets/screenshots/head-optimization.gif)
 ![AI Overview](/assets/screenshots/ai-overview.png)
 
 ---
